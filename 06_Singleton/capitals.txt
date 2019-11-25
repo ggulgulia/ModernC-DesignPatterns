@@ -1,0 +1,14 @@
+Kolkata
+100000
+New Delhi
+300000
+Berlin
+20000
+Munich
+45000
+Amstradam
+60000
+Paris
+20000
+Beljing
+900000
