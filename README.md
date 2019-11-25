@@ -9,10 +9,28 @@
 
 ## Following Design Patterns are covered in the course 
 ### (A) SOLID Design Principles
-### (B) Creational Pattern
-####        1. Builder Patterns
-####        2. Factory + Abstract Factory Pattern
-####        3. Prototype Pattern
-####        4. Singleton Pattern
+### (B) Creational Patterns
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Builder Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Factory + Abstract Factory Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Prototype Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Singleton Pattern
 ### (C) Structural Patterns
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Adapter Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Bridge Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Composite Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Decorator Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Facade Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Flyweight Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Pattern Pattern
 ### (D) Behavorial Patterns
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Chain of responsibility Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Command Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Interpreter Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Iterator Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Mediator Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Memento Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Oveserver Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. State Pattern
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. ???
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Template method
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12. Visitor method
